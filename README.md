@@ -1,5 +1,7 @@
 # egg-egg-svg-captcha
 
+[![Join the chat at https://gitter.im/egg-svg-captcha/community](https://badges.gitter.im/egg-svg-captcha/community.svg)](https://gitter.im/egg-svg-captcha/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
 [![Test coverage][codecov-image]][codecov-url]
